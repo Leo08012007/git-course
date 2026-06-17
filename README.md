@@ -6,6 +6,8 @@ Worked on the following commands :
 3.git push 
 4. branches 
 5.git status 
-6.git checkout 
+6.git checkout
 7. git remote -v
 8. creating a VENV ./scripts/venv/example_venv
+9. git rm prev_file new_file_name
+10. git checkout -b branch_name
