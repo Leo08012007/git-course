@@ -5,25 +5,10 @@ This repository was created to learn and practice Git and GitHub concepts.
 ## Topics Covered
 
 - Git Installation
-- Git Initialization
-- Git Add
-- Git Commit
-- Git Push
-- Git Pull
-- Git Branching
-- Git Merge
-
-## Commands Practiced
-
-```bash
-git init
-git add .
-git commit -m "message"
-git push
-git pull
-git branch
-git merge
-```
+- Git Commands
+- Branching
+- Pull Requests
+- Merge Operations
 
 ## Author
 
