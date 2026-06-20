@@ -4,3 +4,5 @@ hello
 create avatar for user
 
 this is to check the feature1 branch
+
+Git is a distributed Version Contorl System 
